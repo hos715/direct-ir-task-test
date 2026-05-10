@@ -7,7 +7,7 @@ import './globals.css';
 export const metadata: Metadata = {
   title: {
     template: '%s | سامانه پیامک و وفاداری مشتریان',
-    default: 'سامانه پیامک و وفاداری مشتریان | LoyaltySMS',
+    default: 'سامانه پیامک و وفاداری مشتریان | دایرکت.آی آر',
   },
   description:
     'افزایش فروش کسب‌وکارهای کوچک با ارسال پیامک‌های هدفمند، سیستم وفاداری مشتریان و نوبت‌دهی خودکار.',
@@ -17,13 +17,13 @@ export const metadata: Metadata = {
     'نوبت‌دهی آنلاین',
     'کسب‌وکار کوچک',
   ],
-  authors: [{ name: 'تیم لویالتی اس‌ام‌اس' }],
+  authors: [{ name: 'حسین خلیلی' }],
   openGraph: {
     title: 'سامانه پیامک و وفاداری مشتریان',
     description:
       'با ارسال پیامک مناسبتی، مشتریان خود را حفظ کنید و فروش را افزایش دهید.',
     url: 'https://yourdomain.com',
-    siteName: 'LoyaltySMS',
+    siteName: 'دایرکت.آی آر',
     images: [
       { url: 'https://yourdomain.com/og-image.jpg', width: 1200, height: 630 },
     ],

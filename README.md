@@ -1,4 +1,4 @@
-# Loyalty SMS Platform – Dynamic Pages with Next.js
+# Direct.ir test – Dynamic Pages with Next.js
 
 A modern, SEO-friendly dynamic page system built for a hypothetical SaaS product that helps small businesses send SMS, manage customer loyalty, and automate appointments.
 

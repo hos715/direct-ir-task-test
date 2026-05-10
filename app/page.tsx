@@ -11,7 +11,7 @@ export default function HomePage() {
 
   return (
     <main className="container mx-auto p-4 text-center">
-      <h1 className="text-4xl font-bold my-6">به سامانه لویالتی‌اس‌ام‌اس خوش آمدید</h1>
+      <h1 className="text-4xl font-bold my-6">به سامانه دایرکت_تست خوش آمدید</h1>
       <p className="text-gray-600 mb-8">مشتریان خود را با پیامک هدفمند حفظ کنید و فروش را افزایش دهید.</p>
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
         {links.map((link) => (
