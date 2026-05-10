@@ -26,7 +26,8 @@ A modern, SEO-friendly dynamic page system built for a hypothetical SaaS product
 
 ## 📂 Project Structure
 
-``.
+```
+.
 ├── app/
 │ ├── [pageType]/[jobType]/page.tsx # dynamic page
 │ ├── layout.tsx # root layout with navbar/footer
@@ -52,7 +53,8 @@ A modern, SEO-friendly dynamic page system built for a hypothetical SaaS product
 ├── scripts/
 │ └── seed-db.ts # seed database from JSON (uses Zod)
 ├── .env.local # DATA_SOURCE=json|db
-└── public/ # static assets`
+└── public/ # static assets
+```
 
 ## 🛠️ Getting Started
 
